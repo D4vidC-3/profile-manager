@@ -1,0 +1,15 @@
+# PostgreSQL opcional. Uso: podman-compose up -d  (o docker compose up -d)
+# Luego en .env: DATABASE_URL=postgresql+psycopg://pm:pm@localhost:5432/profile_manager
+services:
+  postgres:
+    image: docker.io/library/postgres:16-alpine
+    environment:
+      POSTGRES_USER: pm
+      POSTGRES_PASSWORD: pm
+      POSTGRES_DB: profile_manager
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+volumes:
+  pgdata:

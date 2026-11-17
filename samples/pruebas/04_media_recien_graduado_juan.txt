@@ -1,0 +1,15 @@
+Juan David Cárdenas
+Cali, Valle del Cauca
+juan.cardenas.demo@example.com | 318 222 3344
+
+PERFIL
+Recién graduado de Tecnología en Sistemas, con muchas ganas de aprender. Hice proyectos académicos
+con Python y bases de datos MySQL, y un proyecto de grado de una app web con Django.
+
+EDUCACIÓN
+Tecnólogo en Sistemas de Información | Universidad Santiago de Cali | 2025
+Bachiller académico | Colegio Santa Librada | 2021
+
+HABILIDADES
+Python, Django, MySQL, HTML, CSS, Git
+

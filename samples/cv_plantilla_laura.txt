@@ -1,0 +1,32 @@
+LAURA MARTÍNEZ GÓMEZ
+Desarrolladora Backend Junior
+Medellín, Antioquia | laura.martinez.demo@example.com | +57 300 555 1234
+linkedin.com/in/laura-martinez-demo | github.com/octocat
+
+PERFIL
+Ingeniera de sistemas con experiencia construyendo APIs REST en Python y bases de datos relacionales. Me interesan los equipos ágiles y los productos con impacto social.
+
+EXPERIENCIA
+Desarrolladora Backend | Cafetera Digital | Medellín | Feb 2023 - Actual
+- Desarrollo de APIs REST con FastAPI y PostgreSQL que atienden 20.000 pedidos al mes.
+- Contenedores con Docker y pruebas con pytest.
+Practicante de Desarrollo | EduNube | Medellín | Jul 2022 - Ene 2023
+- Mantenimiento de módulos en Django y consultas SQL.
+
+PROYECTOS
+Hello World | Proyecto personal de aprendizaje de Git | github.com/octocat/Hello-World
+- Repositorio de práctica para flujos de ramas y pull requests.
+
+EDUCACIÓN
+Ingeniería de Sistemas | Universidad EAFIT | 2023
+Bachiller académico | Colegio San José | 2017
+
+CURSOS Y CERTIFICACIONES
+AWS Cloud Practitioner | Amazon Web Services | 2025
+
+HABILIDADES
+Python, FastAPI, Django, SQL, PostgreSQL, Docker, Git, Scrum, Pruebas unitarias
+
+IDIOMAS
+Español: Nativo
+Inglés: B2

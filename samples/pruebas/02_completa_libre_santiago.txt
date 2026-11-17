@@ -1,0 +1,10 @@
+Santiago Herrera Mejía
+santiago.herrera.demo@example.com · 315 678 9012 · Bogotá D.C.
+
+Hola, soy desarrollador full stack con unos 3 años de experiencia. Actualmente trabajo en Comercio Ágil
+(desde 2023) construyendo una plataforma de pedidos con React, TypeScript y Node.js, desplegada en Docker.
+Antes estuve en una agencia digital, Pixel Andino, entre 2022 y 2023, haciendo sitios con JavaScript, HTML y CSS.
+
+Me gradué como Ingeniero de Software de la Pontificia Universidad Javeriana en 2022.
+Hablo inglés a nivel B2.
+

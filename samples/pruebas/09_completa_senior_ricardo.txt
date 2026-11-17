@@ -1,0 +1,28 @@
+RICARDO ALEJANDRO VÉLEZ
+Arquitecto de Software / Líder Técnico Backend
+Envigado, Antioquia | ricardo.velez.demo@example.com | +57 304 555 7788
+linkedin.com/in/ricardo-velez-demo
+
+PERFIL
+Líder técnico con más de 10 años diseñando arquitecturas de microservicios en .NET y Java para banca
+y seguros. Mentor de equipos, enfoque en calidad, observabilidad y nube Azure.
+
+EXPERIENCIA
+Arquitecto de Software | Grupo Montaña Azul | Ene 2020 - Actual
+Definición de arquitectura de microservicios en .NET y Azure, Kubernetes y CI/CD.
+Líder Técnico Backend | Banco Ficticio del Valle | Mar 2016 - Dic 2019
+Liderazgo de 8 desarrolladores, migración de monolito Java a Spring Boot.
+Desarrollador Senior | Seguros Orquídea | Feb 2013 - Feb 2016
+Desarrollo en C# y SQL Server, integración con SAP.
+
+EDUCACIÓN
+Ingeniería Informática | Universidad de Antioquia | 2012
+Maestría en Ingeniería de Software | Universidad EAFIT | 2018
+
+HABILIDADES
+C#, .NET, Java, Spring Boot, Azure, Kubernetes, Docker, Microservicios, SQL, CI/CD, Scrum
+
+IDIOMAS
+Español nativo
+Inglés C1
+

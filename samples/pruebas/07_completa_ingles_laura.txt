@@ -1,0 +1,23 @@
+LAURA BENÍTEZ
+Senior QA Automation Engineer
+Bucaramanga, Colombia | laura.benitez.demo@example.com | +57 312 444 5566
+linkedin.com/in/laura-benitez-demo
+
+SUMMARY
+QA engineer with 7 years of experience in test automation for web and mobile apps using Selenium,
+Cypress and CI/CD pipelines. Strong background in Scrum teams.
+
+EXPERIENCE
+QA Automation Lead | Telco Pacífico | 2021 - Present
+Built Cypress and Selenium test suites, integrated in GitHub Actions. Led a team of 4 testers.
+QA Analyst | EduNube | 2018 - 2021
+Manual and functional testing, API testing with Postman, defect tracking in Jira.
+
+EDUCATION
+Systems Engineering | Universidad Industrial de Santander | 2018
+
+SKILLS
+Selenium, Cypress, Python, JavaScript, CI/CD, Scrum, SQL, Git
+
+LANGUAGES
+Spanish native, English C1

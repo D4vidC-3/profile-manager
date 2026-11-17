@@ -1,0 +1,20 @@
+ANDREA LUCÍA MORENO
+Barranquilla | andrea.moreno.demo@example.com | 300 987 6543
+
+PERFIL
+Contadora pública con 6 años de experiencia que está haciendo transición hacia el análisis de datos.
+Terminé un bootcamp de analítica donde aprendí SQL, Power BI y Python básico.
+
+EXPERIENCIA
+Contadora | Seguros Orquídea | 2019 - 2025
+Cierres contables, conciliaciones, reportes NIIF y manejo de SAP. Automatización de reportes en Excel.
+Auxiliar Contable | Comercio Ágil | 2017 - 2019
+Registro de facturas y apoyo en declaraciones tributarias.
+
+EDUCACIÓN
+Contaduría Pública | Universidad del Norte | 2017
+Bootcamp de Analítica de Datos | Academia Datos Caribe | 2025
+
+HABILIDADES
+Contabilidad, Excel, SAP, SQL, Power BI, Python
+

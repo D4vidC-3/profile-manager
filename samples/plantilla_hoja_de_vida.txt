@@ -1,0 +1,33 @@
+DANIELA GÓMEZ ARANGO
+Desarrolladora Backend Junior
+Medellín, Antioquia | daniela.gomez@example.com | +57 300 123 4567
+linkedin.com/in/daniela-gomez | github.com/danigomez
+
+PERFIL
+Ingeniera de sistemas con 2 años construyendo APIs REST en Python y bases de datos PostgreSQL. Me interesan los equipos ágiles y los productos con impacto social.
+
+EXPERIENCIA
+Desarrolladora Backend | Cafetera Digital | Medellín | Feb 2024 - Actual
+- Desarrollé 12 endpoints con FastAPI que redujeron 30% el tiempo de respuesta.
+- Implementé pruebas con pytest y despliegues con Docker.
+Practicante de Desarrollo | EduNube | Medellín | Jul 2023 - Ene 2024
+- Mantenimiento de módulos en Django y consultas SQL.
+
+PROYECTOS
+Bot de recomendaciones de empleo | Proyecto de grado | 2023
+- API en FastAPI con LangChain y PostgreSQL.
+
+EDUCACIÓN
+Ingeniería de Sistemas | Universidad EAFIT | 2024
+Bachiller académico | Colegio San José | 2018
+
+CURSOS Y CERTIFICACIONES
+AWS Cloud Practitioner | Amazon Web Services | 2025
+Scrum Fundamentals | SCRUMstudy | 2024
+
+HABILIDADES
+Python, FastAPI, Django, SQL, PostgreSQL, Docker, Git, Scrum, Pruebas unitarias
+
+IDIOMAS
+Español: Nativo
+Inglés: B2

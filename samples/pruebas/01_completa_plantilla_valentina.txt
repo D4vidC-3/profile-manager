@@ -1,0 +1,25 @@
+VALENTINA OSORIO RESTREPO
+Ingeniera de Datos Semi Senior
+Medellín, Antioquia | valentina.osorio.demo@example.com | +57 301 234 5678
+linkedin.com/in/valentina-osorio-demo
+
+PERFIL
+Ingeniera de datos con 4 años construyendo pipelines en Python y SQL sobre AWS. Experiencia en modelado de datos, ETL y tableros en Power BI para áreas de negocio.
+
+EXPERIENCIA
+Ingeniera de Datos | Fintech Cóndor | 2023 - Actual
+Diseño de pipelines ETL con Python, Pandas y Airflow sobre AWS. Modelado en PostgreSQL. Contenedores con Docker.
+Analista de Datos | Retail Caribe | 2021 - 2023
+Tableros en Power BI, consultas SQL complejas y automatización de reportes en Excel.
+
+EDUCACIÓN
+Ingeniería Industrial | Universidad Nacional de Colombia | 2021
+Especialización en Analítica de Datos | Universidad EAFIT | 2023
+
+HABILIDADES
+Python, SQL, Pandas, PostgreSQL, AWS, Docker, Power BI, Excel, Git, Estadística
+
+IDIOMAS
+Español nativo
+Inglés C1
+

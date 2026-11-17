@@ -1,0 +1,14 @@
+CAMILA ANDREA PATIÑO
+Desarrolladora Java
+
+EXPERIENCIA
+Desarrolladora Java | Banco Ficticio del Valle | 2020 - 2024
+Microservicios con Spring Boot, integración con bases de datos SQL y despliegues con Kubernetes.
+Desarrolladora Junior | Logística Paisa | 2019 - 2020
+Mantenimiento de aplicaciones Java y pruebas unitarias con JUnit.
+
+EDUCACIÓN
+Ingeniería de Sistemas | Universidad del Valle | 2019
+
+HABILIDADES
+Java, Spring Boot, SQL, Microservicios, Kubernetes, Git, JUnit

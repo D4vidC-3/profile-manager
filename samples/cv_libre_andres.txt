@@ -1,0 +1,12 @@
+Andrés Felipe Rojas
+andres.rojas.demo@example.com — Bogotá
+
+Soy desarrollador frontend con 2 años de experiencia. He trabajado con React, JavaScript y TypeScript,
+construyendo interfaces para comercio electrónico. También he usado Node.js para algunos servicios.
+
+Trabajo
+Frontend Developer en Retail Caribe (2024 - presente): migración de la tienda a Next.js, componentes con Tailwind.
+Freelance (2023 - 2024): sitios web en HTML, CSS y JavaScript para pequeños negocios.
+
+Estudios
+Tecnólogo en Desarrollo de Software - SENA, 2023
